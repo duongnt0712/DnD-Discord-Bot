@@ -1,0 +1,5 @@
+GREETING = "Hi I'm Bò's assistant."
+COUNT_CLASSES = "The number of classes is: {}"
+LIST_CLASSES = "List all classes: {}"
+COUNT_SUBCLASSES = "The number of subclasses is: {}"
+LIST_SUBCLASSES = "List all subclasses: {}"
